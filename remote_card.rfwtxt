@@ -1,0 +1,34 @@
+import core.widgets;
+import material.widgets;
+
+widget CardEntry = Card(
+  elevation: 2.0,
+  margin: [0.0, 0.0, 0.0, 12.0],
+  child: InkWell(
+    onTap: event 'card.tap' { id: data.card.id },
+    child: Padding(
+      padding: [20.0, 20.0, 20.0, 20.0],
+      child: Column(
+        crossAxisAlignment: "start",
+        mainAxisSize: "min",
+        children: [
+          Text(
+            text: data.card.label,
+            style: {
+              fontSize: 18.0,
+              fontWeight: "w600",
+            },
+          ),
+          SizedBox(height: data.card.height),
+          Text(
+            text: data.card.valueText,
+            style: {
+              fontSize: 32.0,
+              fontWeight: "w400",
+            },
+          ),
+        ],
+      ),
+    ),
+  ),
+);
