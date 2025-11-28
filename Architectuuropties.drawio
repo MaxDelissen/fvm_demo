@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
   <diagram name="Page-1" id="4pkxwuZWWdPROW-2kOG4">
-    <mxGraphModel dx="871" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="846" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,6 +265,9 @@
         </mxCell>
         <mxCell id="uoaUro6CBTvo76CnLMog-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;div&gt;Widget vraagt data, response is volledig ingevuld dataobject.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bij updates worden deze doorgestuurd.&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="180" x="840" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gM6RwEToqal57b4cL6Yg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="2080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
